@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a1e8306.css",
+    "main.js": "/static/js/main.9c120da0.js",
+    "static/media/features-banner-1.gif": "/static/media/features-banner-1.be7bc638213a805dd40c.gif",
+    "static/media/auetechnology2023@gmail.com(1).png": "/static/media/auetechnology2023@gmail.com(1).0d2b664c42daea0e7b21.png",
+    "static/media/hero-banner.png": "/static/media/hero-banner.93c1a55bbd5150bb9a31.png",
+    "static/media/stats-banner.png": "/static/media/stats-banner.7d6e00e17bb96ea3a781.png",
+    "static/media/features-banner-2.png": "/static/media/features-banner-2.718106de7cea6d7cfd36.png",
+    "static/media/service-1.gif": "/static/media/service-1.8343478861c987bceb41.gif",
+    "static/media/service-3.gif": "/static/media/service-3.d37872aeb9f382d3c86c.gif",
+    "static/media/service-2.gif": "/static/media/service-2.ee8f8a4e5f9932cd88c8.gif",
+    "static/media/footer-img.png": "/static/media/footer-img.36ff334dca64961eafd3.png",
+    "static/media/features-icon-2.svg": "/static/media/features-icon-2.84d20e39b456fe6765fbbe8f66481607.svg",
+    "static/media/features-icon-4.svg": "/static/media/features-icon-4.18971d4d5407c06d9dca64970c601864.svg",
+    "static/media/features-icon-3.svg": "/static/media/features-icon-3.8bea8f5ea43635432912911ba3bd37ca.svg",
+    "index.html": "/index.html",
+    "static/media/f1.svg": "/static/media/f1.9bef1f9273e82740def413134b8b0fb8.svg",
+    "main.3a1e8306.css.map": "/static/css/main.3a1e8306.css.map",
+    "main.9c120da0.js.map": "/static/js/main.9c120da0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a1e8306.css",
+    "static/js/main.9c120da0.js"
+  ]
+}
